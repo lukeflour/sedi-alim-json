@@ -1,0 +1,72 @@
+[
+    {
+        "latitude": 44.49040176796692, 
+        "longitude": 11.312545880916689,
+        "title": "A.L.IM. Bologna",
+        "description": "<b>Indirizzo:</b> Via Saragozza 223, 40135 Bologna (BO)<br><b>Email</b>: bologna@alim.liberimprenditori.it",
+        "zoomLevel": 20
+    },
+    {
+        "latitude": 45.57923366173128, 
+        "longitude": 10.437809324984356,
+        "title": "A.L.IM. Brescia",
+        "description": "<b>Indirizzo:</b> Via Giovanni Quarena 145, 25085 Gavardo (BS)<br><b>Email</b>: brescia@alim.it | lombardia@alim.it",
+        "zoomLevel": 20
+    },
+    {
+        "latitude": 45.10396177107592, 
+        "longitude": 10.479554324954568,
+        "title": "A.L.IM. Mantova",
+        "description": "<b>Indirizzo:</b> Via Giuseppe Bonoldi 67, 46012 Bozzolo (MN)<br><b>Email</b>: mantova@alim.liberimprenditori.it",
+        "zoomLevel": 20
+    },
+    {
+        "latitude": 45.48761513586757, 
+        "longitude": 9.160136296142483,
+        "title": "A.L.IM. Milano",
+        "description": "<b>Indirizzo:</b> Via Cenisio 71, 20154 Milano (MI)<br><b>Email</b>: milano@alim.liberimprenditori.it",
+        "zoomLevel": 20
+    },
+    {
+        "latitude": 45.48865887108005, 
+        "longitude": 9.023036396142487,
+        "title": "A.L.IM. Milano Nord-Ovest",
+        "description": "<b>Indirizzo:</b> Via Milano 7, 20154 Milano (MI)<br><b>Email</b>: milano.nord.ovest@alim.liberimprenditori.it",
+        "zoomLevel": 20
+    },
+    {
+        "latitude": 45.81179617108736, 
+        "longitude": 8.852155067326771,
+        "title": "A.L.IM. Varese",
+        "description": "<b>Indirizzo:</b> Viale Belforte 178, 21100 Varese (VA)<br><b>Email</b>: varese@alim.liberimprenditori.it",
+        "zoomLevel": 20
+    },
+    {
+        "latitude": 45.406116506142105, 
+        "longitude": 11.246001667301197,
+        "title": "A.L.IM. Verona",
+        "description": "<b>Indirizzo:</b> Via Crosaron 18, 37047 San Bonifacio (VR)<br><b>Email</b>: verona@alim.librimprenditori.it",
+        "zoomLevel": 20
+    },
+    {
+        "latitude": 45.466862421099364, 
+        "longitude": 10.850253121916616,
+        "title": "A.L.IM. Veneto",
+        "description": "<b>Indirizzo:</b> Largo Salvo D'Acquisto 24, 37012 Bussolengo (VR)<br><b>Email</b>: veneto@alim.librimprenditori.it",
+        "zoomLevel": 20
+    },
+    {
+        "latitude": 44.41226250710741, 
+        "longitude": 8.887543338989191,
+        "title": "A.L.IM. Genova",
+        "description": "<b>Indirizzo:</b> Via Stefano Dondero 4/1, 16151 Genova (GE)<br><b>Email</b>: genova@alim.librimprenditori.it",
+        "zoomLevel": 20
+    },
+    {
+        "latitude": 44.90356337014555, 
+        "longitude": 7.673148467848459,
+        "title": "A.L.IM. Piemonte",
+        "description": "<b>Indirizzo:</b> ViaSilvio Pellico 39, 10041 Carignano (TO)<br><b>Email</b>: piemonte@alim.liberimprenditori.it",
+        "zoomLevel": 20
+    }
+]
