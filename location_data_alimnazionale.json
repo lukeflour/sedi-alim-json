@@ -1,5 +1,19 @@
 [
     {
+        "latitude": 38.103152095104456, 
+        "longitude": 15.66069876820801,
+        "title": "A.L.IM. Reggio Calabria",
+        "description": "<b>Email</b>:  reggiocalabria@alimdigital.org",
+        "zoomLevel": 20
+    },
+    {
+        "latitude": 39.57832527810887, 
+        "longitude": 15.86813940515756,
+        "title": "A.L.IM. Cosenza",
+        "description": "<b>Email</b>: cosenza@alimdigital.org",
+        "zoomLevel": 20
+    },
+    {
         "latitude": 44.49040176796692, 
         "longitude": 11.312545880916689,
         "title": "A.L.IM. Bologna",
@@ -42,6 +56,34 @@
         "zoomLevel": 20
     },
     {
+        "latitude": 39.95021597054987, 
+        "longitude": 8.633172366976599,
+        "title": "A.L.IM. Oristano",
+        "description": "<b>Email</b>: oristano@alimdigital.org",
+        "zoomLevel": 20
+    },
+    {
+        "latitude": 36.92821281494373, 
+        "longitude": 14.7131110805646,
+        "title": "A.L.IM. Ragusa",
+        "description": "<b>Email</b>: ragusa@alimdigital.org",
+        "zoomLevel": 20
+    },
+  {
+        "latitude": 45.41226800272822, 
+        "longitude": 11.891774096137725,
+        "title": "A.L.IM. Padova",
+        "description": "<b>Email</b>: padova@alimdigital.org",
+        "zoomLevel": 20
+    },
+       {
+        "latitude": 45.7562779710858, 
+        "longitude": 12.84565426732326,
+        "title": "A.L.IM. Venezia",
+        "description": "<b>Email</b>: venezia@alimdigital.org",
+        "zoomLevel": 20
+    },
+    {
         "latitude": 45.406116506142105, 
         "longitude": 11.246001667301197,
         "title": "A.L.IM. Verona",
@@ -67,6 +109,20 @@
         "longitude": 7.673148467848459,
         "title": "A.L.IM. Piemonte",
         "description": "<b>Indirizzo:</b> ViaSilvio Pellico 39, 10041 Carignano (TO)<br><b>Email</b>: piemonte@alim.liberimprenditori.it",
+        "zoomLevel": 20
+    },
+    {
+        "latitude": 41.233561019432265, 
+        "longitude": 14.545319070278396,
+        "title": "A.L.IM. Benevento",
+        "description": "<b>Email</b>: benevento@alimdigital.org",
+        "zoomLevel": 20
+    },
+      {
+        "latitude": 41.07639025911156, 
+        "longitude": 14.33278029587666,
+        "title": "A.L.IM. Caserta",
+        "description": "<b>Email</b>: caserta@alimdigital.org",
         "zoomLevel": 20
     }
 ]
