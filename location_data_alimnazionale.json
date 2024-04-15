@@ -19,6 +19,20 @@
         "title": "A.L.IM. Bologna",
         "description": "<b>Indirizzo:</b> Via Saragozza 223, 40135 Bologna (BO)<br><b>Email</b>: bologna@alim.liberimprenditori.it",
         "zoomLevel": 20
+    }, 
+    {
+        "latitude": 43.92928399784621, 
+        "longitude": 10.91448456780129
+        "title": "A.L.IM. Pistoia",
+        "description": "<b>Indirizzo:</b> Largo Treviso 4, 51100 Pistoia (PT)<br><b>Email</b>: pistoia@alimdigital.org",
+        "zoomLevel": 20
+    },
+    {
+        "latitude": 42.783698411681286, 
+        "longitude": 11.096943214264911
+        "title": "Associazione Imprese Toscana (aderente A.L.IM.)",
+        "description": "<b>Indirizzo:</b> Via Aurelia Nord, 221 58100 Grosseto (GR)<br><b>Email</b>: toscana@alimdigital.org",
+        "zoomLevel": 20
     },
     {
         "latitude": 45.57923366173128, 
