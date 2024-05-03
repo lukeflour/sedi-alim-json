@@ -49,6 +49,13 @@
         "zoomLevel": 20
     },
     {
+        "latitude": 45.68373532125764, 
+        "longitude": 9.729355342232623,
+        "title": "A.L.IM. Bergamo",
+        "description": "<b>Indirizzo:</b> Via Libertà, 29 – 24068 Seriate (BG)<br><b>Email</b>: bergamo@alimdigital.org",
+        "zoomLevel": 20
+    },
+    {
         "latitude": 45.57923366173128, 
         "longitude": 10.437809324984356,
         "title": "A.L.IM. Brescia",
