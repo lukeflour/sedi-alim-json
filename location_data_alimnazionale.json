@@ -3,7 +3,7 @@
         "latitude": 38.103152095104456, 
         "longitude": 15.66069876820801,
         "title": "A.L.IM. Reggio Calabria",
-        "description": "<b>Email</b>:  reggiocalabria@alimdigital.org",
+        "description": "<b>Email</b>: reggiocalabria@alimdigital.org",
         "zoomLevel": 20
     },
     {
@@ -111,14 +111,14 @@
         "description": "<b>Email</b>: ragusa@alimdigital.org",
         "zoomLevel": 20
     },
-  {
+    {
         "latitude": 45.41226800272822, 
         "longitude": 11.891774096137725,
         "title": "A.L.IM. Padova",
         "description": "<b>Email</b>: padova@alimdigital.org",
         "zoomLevel": 20
     },
-       {
+    {
         "latitude": 45.7562779710858, 
         "longitude": 12.84565426732326,
         "title": "A.L.IM. Venezia",
@@ -160,7 +160,7 @@
         "description": "<b>Email</b>: benevento@alimdigital.org",
         "zoomLevel": 20
     },
-      {
+    {
         "latitude": 41.07639025911156, 
         "longitude": 14.33278029587666,
         "title": "A.L.IM. Caserta",
