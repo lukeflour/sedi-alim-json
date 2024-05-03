@@ -35,6 +35,27 @@
         "zoomLevel": 20
     },
     {
+        "latitude": 45.68368667559374, 
+        "longiture": 9.72939291021613,
+        "title": "A.L.IM. Bergamo",
+        "description": "<b>Indirizzo:</b> Via Libertà, 29 – 24068 Seriate (BG)<br><b>Email</b>: bergamo@alimdigital.org",
+        "zoomLevel": 20
+    },
+    {
+        "latitude": 45.136480839294784, 
+        "longiture": 10.019172839024533,
+        "title": "A.L.IM. Cremona",
+        "description": "<b>Indirizzo:</b> Via Milazzo, 11 – 26100 Cremona<br><b>Email</b>: cremona@alimdigital.org",
+        "zoomLevel": 20
+    },
+    {
+        "latitude": 44.76285857095511, 
+        "longiture": 7.5365099678416,
+        "title": "A.L.IM. Cuneo",
+        "description": "<b>Indirizzo:</b> Piazza Coller, 13 – 12033 Moretta (CN)<br><b>Email</b>: cremona@alimdigital.org",
+        "zoomLevel": 20
+    },
+    {
         "latitude": 45.57923366173128, 
         "longitude": 10.437809324984356,
         "title": "A.L.IM. Brescia",
