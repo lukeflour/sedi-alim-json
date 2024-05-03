@@ -63,6 +63,13 @@
         "zoomLevel": 20
     },
     {
+        "latitude": 45.65234577139514, 
+        "longitude": 10.421340496720692,
+        "title": "A.L.IM. Valle Sabbia",
+        "description": "<b>Indirizzo:</b> Via Magno, 19 – 25070 Sabbio Chiese (BS)<br><b>Email</b>: vallesabbia@alim.it",
+        "zoomLevel": 20
+    },
+    {
         "latitude": 45.10396177107592, 
         "longitude": 10.479554324954568,
         "title": "A.L.IM. Mantova",
